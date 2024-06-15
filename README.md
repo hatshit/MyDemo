@@ -33,7 +33,8 @@ Use Kotlin Coroutines for background operations.
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:![Screenshot 2024-06-14 104705](https://github.com/hatshit/MyDemo/assets/52077080/677c87b0-e191-4a7e-9650-cf08b60f9436)
+
 
    ```bash
    git clone https://github.com/hatshit/MyDemo.git
